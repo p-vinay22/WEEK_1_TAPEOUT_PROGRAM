@@ -149,6 +149,7 @@ abc -liberty /path/to/sky130_fd_sc_hd__tt_025C_1v80.lib
 - Below is the captured GTKWave output:  
 
 ## MUX Waveform Output
+![Image](https://github.com/user-attachments/assets/53d15507-f23a-468b-beff-72e38e1f27d1)
 
 - Analyzed the Verilog code of the mux and verified its correctness.  
 - Explored **Yosys synthesis flow**, including reading libraries, synthesis, and technology mapping.  
