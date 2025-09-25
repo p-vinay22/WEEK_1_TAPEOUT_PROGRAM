@@ -227,8 +227,8 @@ endmodule
    show
    ```
 
-![Flip-Flop Schematic](images/flipflop_schematic.png)
-
+## Flip-Flop Schematic
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/c7c183ea-c2f2-4dc2-b22d-6e9e25f9634a" />
 ---
 
 ## 📝 Takeaways
