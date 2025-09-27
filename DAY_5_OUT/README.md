@@ -175,6 +175,7 @@ endcase
 ```
 
 📸 Lab 8 Image Here
+![good_mux waveform(1)](https://github.com/user-attachments/assets/ac9f686f-afcc-4423-b054-1d34b4bda378)
 
 ---
 
