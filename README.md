@@ -69,17 +69,5 @@ Each day includes:
 
 This project is licensed under the **Attribution 4.0 International License**.
 See the `LICENSE` file for details.
-
 ---
-
-## 🙌 Acknowledgements
-
-Special thanks to:
-
-* 👑 **Shon Taware**
-* 👑 **Kunal Ghosh**
-* ⚙️ Open-source tool providers: **Yosys**, **Sky130 PDK**, and contributors
-
----
-
-Do you want me to also **add image placeholders** 🖼️ (like we did for Day 1–Day 5) so you can easily attach screenshots for each day’s README?
+enshots for each day’s README?
